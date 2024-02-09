@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.free-cancellation {
+  background-color: rgba(243, 240, 239, 0.962);
+  border: 1px solid rgb(210, 209, 209);
+}
+
+.faq img {
+  width: 16rem;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+  margin-right: -5rem;
+  overflow: hidden;
+}
