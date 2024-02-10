@@ -115,7 +115,7 @@ const ConfirmAndPay = () => {
                 <div className="row">
                   <div className="mb-3 col-md-6">
                     <input
-                      type="number"
+                      type="text"
                       className="form-control"
                       id="exampleInputPhoneNumber"
                       placeholder="Input label"
